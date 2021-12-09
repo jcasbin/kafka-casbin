@@ -1,0 +1,2 @@
+p, alice, target_topic, READ
+p, bob, target_topic, WRITE
